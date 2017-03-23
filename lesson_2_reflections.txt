@@ -1,0 +1,3 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It will create it as a respository.  You need to do it so you have a location that holds the master files. 
