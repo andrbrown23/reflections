@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It will create it as a respository.  You need to do it so you have a location that holds the master files. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area is like a holding place.
